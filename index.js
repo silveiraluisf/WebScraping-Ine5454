@@ -8,7 +8,7 @@ async function automateWebsite() {
 
   console.log("Iniciando web scraping!\n");
   
-  const maxItems = 500;
+  const maxItems = 100;
   let itemCount = 0;
 
   // Abre a pagina e aguarda carregar
